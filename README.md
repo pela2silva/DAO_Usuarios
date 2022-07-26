@@ -10,3 +10,4 @@ https://github.com/pela2silva/DAO_Usuarios/issues/2
 https://github.com/pela2silva/DAO_Usuarios/issues/3
 <h2> Delete <h/2>
 <p> Opcion: realizo accion de eliminar </p>
+https://github.com/pela2silva/DAO_Usuarios/issues/4
