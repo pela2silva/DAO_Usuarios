@@ -1,0 +1,7 @@
+Clases\MetodoEscritura.class
+test\app.class
+DAO\DAOUsuariosImp.class
+Clases\MetodoLectura.class
+DAO\Conexion.class
+Clases\Usuarios.class
+Interfaces\DAOUsuarios.class
