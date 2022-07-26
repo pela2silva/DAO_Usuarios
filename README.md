@@ -7,6 +7,6 @@ https://github.com/pela2silva/DAO_Usuarios/issues/1
 https://github.com/pela2silva/DAO_Usuarios/issues/2
 <h2> Update <h/2>
 <p> Opcion: realizo accion de modificar </p>
-
+https://github.com/pela2silva/DAO_Usuarios/issues/3
 <h2> Delete <h/2>
 <p> Opcion: realizo accion de eliminar </p>
